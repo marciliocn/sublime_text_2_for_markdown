@@ -50,9 +50,11 @@ Instale o tema Soda, e configure o seu Settings-User com a entrada: `"theme": "S
 ## Outros plugins essenciais
 
 - git
+ - GitGutter
 - EMMET
 - JavaScriptNext (javascript com ECMAScript 6)
 - Clipboard History  (CTRL+ALT+V pra ver a lista)
+
 
 
 

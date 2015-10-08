@@ -1,3 +1,4 @@
+
 # Dicas para Sublime Text 2 e MarkDown
 
 Este é um conjunto de dicas para a instalação do Sublime Text 2 otimizado para a linguagem MarkDown
@@ -32,7 +33,15 @@ Instale os seguintes pacotes
 - Monokai Extended
 - Markdown Extended
 
-Escolha o tema Markdown Extended através Set Syntax
+Escolha o tema Markdown Extended através Set Syntax. 
+
+Abra `Preferences > Package Settings > MrkDown Editing > Markdown GFM Settings - User`
+
+E configure o color_scheme:
+
+    {
+        "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme"
+    }
 
 ## Outras operações úteis
 

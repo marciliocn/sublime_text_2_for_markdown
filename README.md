@@ -1,4 +1,4 @@
-# Dicas para Sublime Text 2 4 MarkDown
+# Dicas para Sublime Text 2 e MarkDown
 
 Este é um conjunto de dicas para a instalação do Sublime Text 2 otimizado para a linguagem MarkDown
 

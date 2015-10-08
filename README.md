@@ -11,7 +11,7 @@ sudo apt-get install sublime-text
 
 ## Instalar o corretor ortográfico em português
 
-- Faça o clone deste projeto
+- Clone deste projeto ou click em `Download ZIP`
 - Copie o conteúdo da pasta `Languages` para `~/.config/sublime-text-2/Packages/` 
 - No Sublime Text, acesse: `View > Dictionary > Languages > pt_br > Portuguese(Brazilian)`
 - Use F6 para habilitar/desabilitar o spell check

@@ -60,6 +60,10 @@ Instale o tema Soda, e configure o seu Settings-User com a entrada: `"theme": "S
 
 Identar o código com F12:
 
-{ "keys": ["f12"], "command": "reindent", "args": {"single_line": false} }  
+	{
+	
+	 "keys": ["f12"], "command": "reindent", "args": {"single_line": false} 
+	
+	}  
 
 

@@ -64,7 +64,7 @@ Instale o tema Soda, e configure o seu Settings-User com a entrada: `"theme": "S
 
 ## Mais dicas
 
-Identar o código com F12:
+Identar o código com F12 (Preferences > Key bindings - User) :
 
 ```json
 {

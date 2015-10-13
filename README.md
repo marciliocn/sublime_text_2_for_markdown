@@ -1,13 +1,14 @@
-
 # Dicas para Sublime Text 2 e MarkDown
 
 Este é um conjunto de dicas para a instalação do Sublime Text 2 otimizado para a linguagem MarkDown
 
 ## Instalação no ubuntu
 
+```bash
 sudo add-apt-repository ppa:webupd8team/sublime-text-2
 sudo apt-get update
 sudo apt-get install sublime-text
+```
 
 ## Instalar o corretor ortográfico em português
 
@@ -23,6 +24,7 @@ sudo apt-get install sublime-text
 - Copie o texto da instalação
 - Volte ao Sublime Text, abra um terminal: `View > Show Console`
 - Cole o texto e aguarde a instalação.
+- Talvez seja necessário reiniciar o Sublime algumas vezes
 
 ## Instalar os pacotes
 
@@ -31,7 +33,6 @@ Instale os seguintes pacotes
 - ctrl shif p, escolha Install Package, escolha:
 - Markdown Editing
 - Monokai Extended
-- Markdown Extended
 
 Escolha o tema Markdown Extended através Set Syntax. 
 
@@ -39,9 +40,15 @@ Abra `Preferences > Package Settings > MrkDown Editing > Markdown GFM Settings -
 
 E configure o color_scheme:
 
-    {
-        "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme"
-    }
+```json
+{
+    "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+    "draw_centered": true,
+    "wrap_width": 40,
+    "word_wrap": true,
+    "line_numbers": true
+}
+```
 
 ## Outras operações úteis
 
@@ -50,22 +57,20 @@ Instale o tema Soda, e configure o seu Settings-User com a entrada: `"theme": "S
 ## Outros plugins essenciais
 
 - git
- - GitGutter
+- GitGutter
 - EMMET
 - JavaScriptNext (javascript com ECMAScript 6)
 - Clipboard History  (CTRL+ALT+V pra ver a lista)
-
-
-
 
 ## Mais dicas
 
 Identar o código com F12:
 
-	{
-	
-	 "keys": ["f12"], "command": "reindent", "args": {"single_line": false} 
-	
-	}  
+```json
+{
+ "keys": ["f12"], "command": "reindent", "args": {"single_line": false} 
+}  
+```
+
 
 

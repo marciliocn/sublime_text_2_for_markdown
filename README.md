@@ -20,7 +20,8 @@ sudo apt-get install sublime-text
 ## Instalar o Package Control
 
 - Ele será necessário para instalar os demais packages
-- Acesse https://packagecontrol.io/installation#st2 
+- Acesse https://packagecontrol.io/installation
+- Escolha a aba de acordo com a versão do Sublime
 - Copie o texto da instalação
 - Volte ao Sublime Text, abra um terminal: `View > Show Console`
 - Cole o texto e aguarde a instalação.

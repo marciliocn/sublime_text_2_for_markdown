@@ -10,7 +10,7 @@ sudo apt-get update
 sudo apt-get install sublime-text
 ```
 
-## Instalar o corretor ortográfico em português
+## Instalar o corretor ortográfico em português com o melhor dicionário
 
 - Clone deste projeto ou click em `Download ZIP`
 - Copie o conteúdo da pasta `Languages` para `~/.config/sublime-text-2/Packages/` 

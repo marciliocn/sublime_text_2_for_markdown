@@ -1,6 +1,8 @@
-# Dicas para Sublime Text 2 e MarkDown
+# Dicas para Sublime Text 3 e MarkDown
 
-Este é um conjunto de dicas para a instalação do Sublime Text 2 otimizado para a linguagem MarkDown
+PS: O nome do repositório é "Sublime Text 2" mas o 3 agora está estável.
+
+Este é um conjunto de dicas para a instalação do Sublime Text 3 otimizado para a linguagem MarkDown
 
 ## Instalação no ubuntu
 
